@@ -1,0 +1,12 @@
+---
+title: "Events"
+format: html
+---
+
+#### The TC will undertake a variety of activities to achieve its objectives:
+
+- Workshops and Conferences
+- Collaborative Research Projects
+- Publication of White Papers and Guidelines
+- Networking and Collaboration
+- Standardization Efforts

@@ -1,0 +1,33 @@
+---
+title: "About TC-8"
+page-layout: full
+---
+
+::::{.columns}
+:::{.column width="50%" style="font-size: 90%;"}
+![](figures/committee.png){width="90%" fig-align="left"}
+
+
+**Governance**
+
+The TC will be governed by an elected Chair and Vice-Chair, supported by an Executive Committee
+comprising experts from key areas within the field. The Executive Committee will be responsible for setting the strategic direction of the TC, organizing activities, and ensuring that the TC's objectives are met. Regular meetings will be held to review progress, plan future activities, and address any challenges that arise.
+
+:::
+:::{.column width="50%"}
+
+### Scope
+
+
+[The scope of the TC encompasses the following areas:]{.myBlue}
+
+- Advanced Machine Vision Algorithms: Promotion of cutting-edge algorithms for defect detection, object recognition, and classification in industrial environments.
+- Sensor Technology and Data Acquisition: Exploration of novel sensors, including high-resolution cameras,hyperspectral imaging, and 3D vision systems, as well as techniques for efficient data acquisition and processing.
+- Deep Learning and AI Integration: Application of deep learning and artificial intelligence in machine vision to enhance the accuracy, speed, and reliability of industrial inspection systems.
+- Real-Time Processing and Automation: Research into real-time image processing techniques and their integration with automated inspection systems on production lines.
+- Standardization and Benchmarking: Development of standards, protocols, and benchmarking tools to ensure consistency and reliability in machine vision-based inspection across different industries.
+- Applications in Various Industries: Exploration of machine vision applications in sectors such as manufacturing, automotive, electronics, food processing, agriculture, pharmaceuticals, and more.
+:::
+::::
+
+

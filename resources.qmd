@@ -1,0 +1,6 @@
+---
+title: "Resources"
+---
+
+This is the resources page.
+Coming soon ...

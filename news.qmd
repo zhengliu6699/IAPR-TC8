@@ -1,0 +1,26 @@
+---
+title: "TC8 News"
+page-layout: full
+toc: false
+#author: "TC-8 Committee"
+#date: "2025-06-20"
+#categories: [news]
+#image: /figures/IAPR.png
+#css: style.css
+listing: 
+- id: news
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description, date]
+  grid-item-align: left
+  grid-columns: 3
+  image-height: 100px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents: news.yml
+---
+
+
+:::{#news}
+:::

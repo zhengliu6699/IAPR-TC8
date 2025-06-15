@@ -1,0 +1,9 @@
+- path: https://www.tc-iaip.org/qcav/2025/
+  image: "figures/qcav.png"
+  title: "Dr. Liu and Dr. Ukida attended the QCAV2025"
+  author: 
+        - Zheng Liu
+        - Hiroshi Ukida
+  description: "Dr. Ukida and Dr. Liu attended the QCAV2025 in Yamanashi, Japan. Dr. Ukida organized a session and Dr. Liu presented a keynote talk on machine vision and promote the IAPR TC-8."
+  date: "2025-06-05"
+ #  categories: [TC8, News]  

@@ -1,0 +1,17 @@
+---
+title: "IAPR TC-8: Machine Vision for Industrial Inspection"
+---
+
+![](figures/IAPR.png){width="10%"}
+
+::::{.columns}
+:::{.column width="50%"}
+**Objective of TC-8**
+
+The primary objective of this Technical Committee (TC) is to promote and coordinate research, development, and dissemination of knowledge in the field of machine vision for industrial inspection. The TC aims to bridge the gap between academia and industry by fostering collaboration among researchers, engineers, and practitioners. It will also seek to establish standards and best practices that can guide the application of machine vision technologies in various industrial sectors.
+
+:::
+:::{.column width="50%"}
+![TC-8: Machine Vision for Industrial Inspection](figures/machinevision.png){width="90%" align="right"}
+:::
+::::

@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "IAPR-TC8"
+  image: "figures/IAPR.png"
+  navbar:
+    background: "#05336B"
+    foreground: "#FFFFFF"
+    left:
+      - text: About
+        href: about.qmd
+      - text: News
+        href: news.qmd
+      - text: Members
+        href: members.qmd
+      - text: Events
+        href: events.qmd
+      - text: Resources
+        href: resources.qmd
+      - text: Contact
+        href: contact.qmd
+  page-navigation: true
+  page-footer: 
+    left: "[TC-8](http://deeppolicylab.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+  search:
+    location: navbar
+    type: textbox
+  reader-mode: true
+  repo-url: https://github.com/deeppolicylab/deeppolicylab.github.io
+#  repo-actions: [edit, issue, source]
+  open-graph: true
+  twitter-card: true 
+#  card-style: summary      
+  site-url: "http://deeppolicylab.github.io"
+  google-analytics:
+    tracking-id: "G-TEC97F8RGK"
+    anonymize-ip: true 
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true 
+
+

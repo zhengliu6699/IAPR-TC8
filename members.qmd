@@ -1,0 +1,28 @@
+---
+title: "Members"
+format: html
+---
+
+### Membership
+
+The TC will be open to members from both academia and industry who have a strong interest in machine
+vision for industrial inspection. Membership will be drawn from a diverse range of disciplines, including computer vision, artificial intelligence, robotics, automation, and industrial engineering. The TC will also actively encourage participation from early-career researchers, including graduate students, and practitioners to ensure the future growth and sustainability of the field.
+
+[Currently, we have the following members. If you are interested in joining the TC, please contact us.]{.myBlue}
+
+
+| Name     | Affiliation | Link     |
+|----------|-------------|----------|
+| Dr. A.K. Jain (Advisor) | Michigan State University | [Link](https://www.egr.msu.edu/~jain/) |
+| Dr. Zheng Liu (Chair) |  The University of British Columbia | [Link](https://apsc.ubc.ca/profile/zheng-liu) |
+| Dr. Hiroyuki Ukida (Co-Chair) | Tokushima University | [Link](https://www.tokushima-u.ac.jp/en/research/) |
+| Mr. Sasai Masatoshi | Mega Trade Inc. | [Link](https://www.mega-trade.co.jp/) |
+| Dr. Rosario Morello | University Mediterranea of Reggio Calabria | [Link](https://www.unirc.it/) |
+| Dr. Gaurav Bhatnagar | Indian Institute of Technology Jodhpur | [Link](https://www.iitj.ac.in/) |
+| Dr. Boon Yaik (Alex) Ooi | Universiti Tunku Abdul Rahman (UTAR) | [Link](https://www.utar.edu.my/) |
+| Dr. Lin Chai (F) | Southeast University | [Link](https://www.seu.edu.cn/) |
+| Dr. Liqin Huang | Fuzhou University | [Link](https://www.fzu.edu.cn/) |
+| Mr. Marc Genest | National Research Council of Canada | [Link](https://nrc.canada.ca/en) |
+| Dr. Rakiba Rayhana (F) | The University of British Columbia | [Link](https://engineering.ok.ubc.ca/) |
+| Dr. Min Zou (F) | Iwate University | [Link](https://www.iwate-u.ac.jp/) |
+| Dr. Yiming Deng | Michigan State University | [Link](https://engineering.msu.edu/faculty/Yiming-Deng) |
