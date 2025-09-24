@@ -1,9 +1,7 @@
 {
   "listingMap": {
     "news.qmd": [
-      "/news/",
-      "news.yml",
-      "B3049D40"
+      "news.yml"
     ]
   }
 }

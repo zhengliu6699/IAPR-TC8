@@ -15,7 +15,7 @@ vision for industrial inspection. Membership will be drawn from a diverse range 
 |----------|-------------|----------|
 | Dr. A.K. Jain (Advisor) | Michigan State University | [Link](https://www.egr.msu.edu/~jain/) |
 | Dr. Zheng Liu (Chair) |  The University of British Columbia | [Link](https://apsc.ubc.ca/profile/zheng-liu) |
-| Dr. Hiroyuki Ukida (Co-Chair) | Tokushima University | [Link](https://www.tokushima-u.ac.jp/en/research/) |
+| Dr. Hiroyuki Ukida (Co-Chair) | Tokushima University | [Link](http://pub2.db.tokushima-u.ac.jp/ERD/person/10654/profile-en.html) |
 | Mr. Sasai Masatoshi | Mega Trade Inc. | [Link](https://www.mega-trade.co.jp/) |
 | Dr. Rosario Morello | University Mediterranea of Reggio Calabria | [Link](https://www.unirc.it/) |
 | Dr. Gaurav Bhatnagar | Indian Institute of Technology Jodhpur | [Link](https://www.iitj.ac.in/) |
@@ -26,3 +26,8 @@ vision for industrial inspection. Membership will be drawn from a diverse range 
 | Dr. Rakiba Rayhana (F) | The University of British Columbia | [Link](https://engineering.ok.ubc.ca/) |
 | Dr. Min Zou (F) | Iwate University | [Link](https://www.iwate-u.ac.jp/) |
 | Dr. Yiming Deng | Michigan State University | [Link](https://engineering.msu.edu/faculty/Yiming-Deng) |
+| Prof. Hiroyasu Koshimizu (Emeritus) | Chukyo University / (LLC) YYC-Solution | [Link](http://yyc-solution.jp/)|
+| Prof.	Toshihiko Tsukada | Aichi Institute of Technology | [Link]() |
+| Dr. Kimiya Aoki | Chukyo University | [Link](http://cvslab.jp/) |
+| Prof.	Kenji Terada | Tokushima University | [Link](http://pub2.db.tokushima-u.ac.jp/ERD/person/10760/profile-ja.html)|
+|Mr. Minori Noguchi | Hitachi High-Tech Corporation | [Link](https://www.hitachi-hightech.com/global/en/) |
